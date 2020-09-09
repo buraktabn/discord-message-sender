@@ -13,3 +13,9 @@
 	"authorization":  "****"
 }
 ```
+
+### RUN
+
+```bash
+npm run start
+```
